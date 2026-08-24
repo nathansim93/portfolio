@@ -34,5 +34,6 @@ export const projects: Project[] = [
     summary:
       "A shopping simulator that recreates the dopamine loop of online checkout without spending anything. Installable as a PWA, with a thermal receipt share mechanic.",
     stack: ["TypeScript", "HTML", "CSS"],
+    liveUrl: "https://ghost-carts.netlify.app/",
   },
 ];
